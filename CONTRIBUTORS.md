@@ -10,4 +10,8 @@ jureerat
 ## รายชื่อ
 
 jureerat
+-nawapornm-ubu
+
+## รายชื่อ
+-nawaporn
 - instructor — ผู้ดูแล repo (ทุกฟีเจอร์)
