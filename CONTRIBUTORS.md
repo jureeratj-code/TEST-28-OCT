@@ -5,7 +5,9 @@
 ```
 - <github-username> — <บทบาท/ความถนัด> (<ฟีเจอร์ที่สนใจ>)
 ```
+jureerat
 
 ## รายชื่อ
 
+jureerat
 - instructor — ผู้ดูแล repo (ทุกฟีเจอร์)
