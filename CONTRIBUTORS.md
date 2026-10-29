@@ -5,6 +5,11 @@
 ```
 - <github-username> — <บทบาท/ความถนัด> (<ฟีเจอร์ที่สนใจ>)
 ```
+jureerat
+
+## รายชื่อ
+
+jureerat
 -nawapornm-ubu
 
 ## รายชื่อ
